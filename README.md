@@ -64,6 +64,6 @@ SOFTWARE.
 ## Authors Info
 
 
-Linked - [Sheldon Ouma](https://www.linkedin.com/in/albert-byrone-664811144/)
+Github - [Sheldon Ouma](https://github.com/JUdihouma04)
 
 [Go Back to the top](#ka-dairy)
